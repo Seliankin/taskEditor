@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ToDoList>
+	<Task caption="Заголовок задачи" id="1">
+        <Description>Описание задачи</Description>
+        <Priority>100</Priority>
+        <Deadline>2017-02-12</Deadline>
+        <Status>done</Status>
+        <Complete>2017-12-03</Complete> 
+    </Task> 
+	<Task caption="XML парсер" id="2">
+        <Description>Реализовать XML парсер</Description>
+        <Priority>15</Priority>
+        <Deadline>2017-02-12</Deadline>
+        <Status>new</Status>
+        <Complete>2017-12-03</Complete> 
+	</Task>
+<Task caption="TestEdit" id="5">
+        <Description>hello</Description>
+        <Priority>60</Priority>
+        <Deadline>2017-03-03</Deadline>
+        <Status>new</Status>
+        <Complete>2017-12-03</Complete> 
+	</Task>
+
+<Task caption="test15 #2" id="15">
+        <Description>Описание задачи 15</Description>
+        <Priority>90</Priority>
+        <Deadline>2017-05-03</Deadline>
+        <Status>new</Status>
+        <Complete>2017-12-03</Complete>
+    </Task>
+</ToDoList>
